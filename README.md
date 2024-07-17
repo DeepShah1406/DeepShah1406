@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepShah1406
+- 👋 Hi there, I’m Deep Shah
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true) ![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepShah1406&theme=transparent&show_icons=true&layout=compact&rank_icon=github)
 <!---
