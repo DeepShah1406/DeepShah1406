@@ -69,13 +69,26 @@
   </div>
   <br>
 
+  <img src="https://github-readme-activity-graph-1-deep-shah-1406.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 View All Repositories 👨‍💻</h2>
+<br>
+
+<h4 align="center">
+  <a href="https://github.com/DeepShah1406?tab=repositories" title="Show All Repositories">🔎 View All 🔍</a>
+</h4>
 
 <!---
 ![Top Langs](https://github-readme-stats-deep-shah-1406.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true) ![Deep's GitHub stats](https://github-readme-stats-deep-shah-1406.vercel.app/api?username=DeepShah1406&theme=transparent&show_icons=true&layout=compact&rank_icon=github)
 
 DeepShah1406/DeepShah1406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 https://github-readme-streak-stats-2-deep-shah-1406.vercel.app/
+https://github-readme-activity-graph-1-deep-shah-1406.vercel.app/
 
 ghp_r3cGrPZByPf2K7553XF
 2Bp2qLHWKJS3IhsMT
