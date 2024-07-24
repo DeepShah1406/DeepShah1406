@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/deepshah1406/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/DeepShah1406/" title="GitHub Profile"><img width="22" src="images/github.png"> GitHub</a></code>
+  <code><a href="https://github.com/DeepShah1406/" title="GitHub Profile"><img width="22" src="images/30_github.c0a4dde53e.png"> GitHub</a></code>
   <code><a href="https://www.instagram.com/deep_shah_1406/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
