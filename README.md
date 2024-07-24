@@ -70,6 +70,8 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph-deep-shah-1406.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph-beryl.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -91,6 +93,8 @@ https://github-readme-streak-stats-2-deep-shah-1406.vercel.app/
 https://github-readme-activity-graph-1-deep-shah-1406.vercel.app/
 https://github-readme-activity-graph-001-deep-shah-1406.vercel.app/
 https://github-readme-activity-graph-001.vercel.app/
+https://github-readme-activity-graph-deep-shah-1406.vercel.app/
+https://github-readme-activity-graph-beryl.vercel.app/
 
 ghp_r3cGrPZByPf2K7553XF
 2Bp2qLHWKJS3IhsMT
