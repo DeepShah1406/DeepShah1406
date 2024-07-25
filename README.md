@@ -40,6 +40,7 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
