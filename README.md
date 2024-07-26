@@ -58,13 +58,13 @@
       <img align="left" width=390 src="https://github-readme-streak-stats-2-deep-shah-1406.vercel.app/?user=DeepShah1406&theme=react&border=61dafb&hide_border=true" alt="DeepShah1406" />
     </a>
     <a href="https://github.com/DeepShah1406/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats-dhavaltalpadas-projects.vercel.app/api?username=DeepShah1406&theme=transparent&show_icons=true&layout=compact&rank_icon=github" />
+      <img align="right" width=390 src="https://github-readme-stats-deep-shah-1406.vercel.app/api?username=DeepShah1406&theme=transparent&show_icons=true&layout=compact&rank_icon=github" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/DeepShah1406/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-dhavaltalpadas-projects.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true" />
+      <img height=200 align="center" src="https://github-readme-stats-deep-shah-1406.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true" />
     </a>
   </div>
   <br>
