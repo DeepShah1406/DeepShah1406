@@ -57,17 +57,7 @@
     <a href="https://github.com/DeepShah1406/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats-2-deep-shah-1406.vercel.app/?user=DeepShah1406&theme=react&border=61dafb&hide_border=true" alt="DeepShah1406" />
     </a>
-    <a href="https://github.com/DeepShah1406/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats-inky-phi.vercel.app/api?username=DeepShah1406&theme=transparent&show_icons=true&layout=compact&rank_icon=github" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/DeepShah1406/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-inky-phi.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true" />
-    </a>
-  </div>
-  <br>
+    
 
   <img src="https://github-readme-activity-graph-deep-shah-1406.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
@@ -96,4 +86,20 @@ ghp_r3cGrPZByPf2K7553XF
 2Bp2qLHWKJS3IhsMT
 git token for 7 days
 https://readme-typing-svg-deep-shah-1406.vercel.app/
+
+---------------------------------------------------------------------------------------
+
+<a href="https://github.com/DeepShah1406/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats-inky-phi.vercel.app/api?username=DeepShah1406&theme=transparent&show_icons=true&layout=compact&rank_icon=github" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/DeepShah1406/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats-inky-phi.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true" />
+    </a>
+  </div>
+  <br>
+
+
 --->
