@@ -60,7 +60,16 @@
     
   </div>
   <br>
-
+<a href="https://github.com/DeepShah1406/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats-dhavaltalpadas-projects.vercel.app/api?username=DeepShah1406&theme=transparent&show_icons=true&layout=compact&rank_icon=github" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/DeepShah1406/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats-dhavaltalpadas-projects.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true" />
+    </a>
+<br>
 
   <img src="https://github-readme-activity-graph-deep-shah-1406.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
