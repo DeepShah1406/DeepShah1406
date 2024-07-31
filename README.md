@@ -59,9 +59,7 @@
     </a>
     
   </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph-002-deep-shah-1406.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
 </p>
 
 <hr>
@@ -84,7 +82,9 @@
     <a href="https://github.com/DeepShah1406/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats-deep-shah-1406.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true" />
     </a>
+<br>
 
+  <img src="https://github-readme-activity-graph-002-deep-shah-1406.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 
