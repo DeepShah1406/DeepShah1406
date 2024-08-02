@@ -22,7 +22,7 @@
   <br>
   💻 I love coding and learning new things for and about it
   <br>
-  📚 I’m currently learning how to make my GitHub profile more reactive and attractive
+  📚 “I’m currently learning how to make my GitHub profile more reactive and attractive. I’m also learning Flutter and developing dynamic Android applications
   <br>
   📫 You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
 </p>
