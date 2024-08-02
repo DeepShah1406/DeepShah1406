@@ -14,8 +14,7 @@
   Hi, I'm Deep Shah.
   <br>
   <br>
-  🎓 I'm currently pursuing a Master's degree in Information Technology at Charotar University of Science and Technology,
-      Faculty of Computer Science and Applications.
+  🎓 I'm currently pursuing a Master's degree in Information Technology at Charotar University of Science and Technology, Faculty of Computer Science and Applications.
   <br>
   🎓 I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University
   <br>
@@ -23,8 +22,7 @@
   <br>
   💻 I love coding and learning new things for and about it
   <br>
-  📚 “I’m currently learning how to make my GitHub profile more reactive and attractive.
-      I’m also learning Flutter and developing dynamic Android applications
+  📚 “I’m currently learning how to make my GitHub profile more reactive and attractive. I’m also learning Flutter and developing dynamic Android applications
   <br>
   📫 You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
 </p>
