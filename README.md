@@ -18,7 +18,7 @@
   <br>
   🎓 I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University
   <br>
-  🎓 I completed my 12th from St. Anne's High School, Gujarat Secondary and Higher Secondary Education Board
+  🎓 I completed my 12th from St. Anne's High School, from Gujarat Secondary and Higher Secondary Education Board
   <br>
   💻 I love coding and learning new things for and about it
   <br>
