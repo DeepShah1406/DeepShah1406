@@ -14,7 +14,7 @@
   Hi, I'm Deep Shah.
   <br>
   <br>
-  🎓 I'm currently studying for my Master's at Charotar University of Science and Technology, Faculty of Computer Science and Applications (MSc. IT.)
+  🎓 I'm currently pursuing a Master's degree in Information Technology at Charotar University of Science and Technology, Faculty of Computer Science and Applications.
   <br>
   🎓 I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University
   <br>
