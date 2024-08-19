@@ -31,7 +31,8 @@
 <h2 align="center">🔥 Language's & Framework's & Tool's & Abilitie's 🔥</h2>
 <br>
 <p align="center">
-  <code> <a href = "https://www.python.org/" <img title="Python" height="25" src="images/python-original.svg"> </a></code>
+  <code><a href="https://www.linkedin.com/in/deepshah1406/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.python.org/" title="Python" ><img height="25" src="images/python-original.svg"> </a></code>
   <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
