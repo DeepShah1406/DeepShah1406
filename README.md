@@ -58,18 +58,18 @@
       <img align="center" width=390 src="https://github-readme-streak-stats-001-deep-shah-1406.vercel.app/?user=DeepShah1406&theme=transparent&border=61dafb&hide_border=true" alt="DeepShah1406" />
     </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DeepShah1406&theme=transparent&show_icons=true&layout=compact&rank_icon=github" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DeepShah1406&theme=react&show_icons=true&layout=compact&rank_icon=github" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=transparent&show_icons=true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=react&show_icons=true" />
     </a>
   </div>
 <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepShah1406&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
