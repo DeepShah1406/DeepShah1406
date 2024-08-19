@@ -61,7 +61,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DeepShah1406&theme=react&show_icons=true&layout=compact&rank_icon=github" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=react&show_icons=true" />
