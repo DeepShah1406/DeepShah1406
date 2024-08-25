@@ -28,25 +28,25 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Language's & Framework's & Tool's & Abilitie's 🔥</h2>
+<h2 align="center">🔥 Language's & Framework's & Tool's & Abilities' 🔥</h2>
 <br>
 <p align="center">
   <code><a href="https://www.python.org/"><img title="Python" height="25" src="images/python-original.svg"></a></code>
-  <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Dart" height="25" src="images/dart.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><a href="https://flutter.dev/"><img title="Flutter" height="25" src="images/flutter.svg"></a></code>
+  <code><a href="https://www.php.net/"><img title="PHP" height="25" src="images/php.svg"></a></code>
+  <code><a href="https://www.java.com/"><img title="Java" height="25" src="images/java-original.svg"></a></code>
+  <code><a href="https://dart.dev/"><img title="Dart" height="25" src="images/dart.svg"></a></code>
+  <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img title="C#" height="25" src="images/cSharp.svg"></a></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="ASP.NET" height="25" src="images/asp.net.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><a href="https://html.spec.whatwg.org/multipage/"><img title="HTML5" height="25" src="images/html5.svg"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/"><img title="CSS" height="25" src="images/css.svg"></a></code>
+  <code><a href="https://git-scm.com/"><img title="Git" height="25" src="images/git-original.svg"></a></code>
+  <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps"><img title="ASP.NET" height="25" src="images/asp.net.png"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img title="Visual Studio Code" height="25" src="images/vscode.png"></a></code>
+  <code><a href="https://visualstudio.microsoft.com/"><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></a></code>
+  <code><a href="https://developer.android.com/"><img title="Android" height="25" src="images/android.svg"></a></code>
+  <code><a href="https://github.com/"><img title="GitHub" height="25" src="images/github.svg"></a></code>
+  <code><a href="https://www.mysql.com/"><img title="MySQL" height="25" src="images/mysql.svg"></a></code>
 </p>
 <hr>
 
