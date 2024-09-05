@@ -16,8 +16,8 @@
 
 ### 😁 More About Me:
 - 👋🏻 &nbsp; Hi, I'm Deep Shah.
-- 🎓 &nbsp; I’m currently pursuing a Master’s in Information Technology at Charotar University of Science and Technology.
-- 🎓 &nbsp; I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University.
+- 🎓 &nbsp; I’m currently pursuing a Master’s in Information Technology.
+- 🎓 &nbsp; I completed my Graduation with a Bachelor of Science in Chemistry.
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/programming/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything Tech related, I am happy to discuss and help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/deepshah1406/).
