@@ -22,7 +22,7 @@
 - 💬 &nbsp; Ask me about anything Tech related, I am happy to discuss and help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/deepshah1406/).
 - 💻 &nbsp; I love coding and learning new things for and about it.
-- 📚 &nbsp; I’m enhancing my GitHub profile and developing dynamic Android apps with Flutter.
+- 📚 &nbsp; I’m enhancing my GitHub profile and building Android apps with Flutter.
 - 📫 &nbsp; You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
 
 <br>
