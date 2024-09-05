@@ -10,22 +10,20 @@
   <code><a href="https://www.instagram.com/deep_shah_1406/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Deep Shah.
-  <br>
-  <br>
-  🎓 I'm currently pursuing a Master's degree in Information Technology at Charotar University of Science and Technology, Faculty of Computer Science and Applications.
-  <br>
-  🎓 I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University
-  <br>
-  🎓 I completed my 12th from St. Anne's High School, from Gujarat Secondary and Higher Secondary Education Board
-  <br>
-  💻 I love coding and learning new things for and about it
-  <br>
-  📚 “I’m currently learning how to make my GitHub profile more reactive and attractive. I’m also learning Flutter and developing dynamic Android applications
-  <br>
-  📫 You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
-</p>
+<br>
+
+<img align="right" alt="GIF" src="https://github.com/DeepShah1406/DeepShah1406/blob/main/language_and_tools_images/GitHub_Animation.gif" width="360px"/>
+
+### 🧐 More About Me:
+- 👋🏻 &nbsp; Hi, I'm Deep Shah.
+- 🎓 &nbsp; I'm currently pursuing a Master's degree in Information Technology at Charotar University of Science and Technology, Faculty of Computer Science and Applications.
+- 🎓 &nbsp; I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University
+- 🎓 &nbsp; I completed my 12th from St. Anne's High School, from Gujarat Secondary and Higher Secondary Education Board
+- 💻 &nbsp; I love coding and learning new things for and about it
+- 📚 &nbsp; “I’m currently learning how to make my GitHub profile more reactive and attractive. I’m also learning Flutter and developing dynamic Android applications
+- 📫 &nbsp; You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
+
+<br>
 
 <hr>
 <h2 align="center">🔥 Language's & Framework's & Tool's & Abilities' 🔥</h2>
