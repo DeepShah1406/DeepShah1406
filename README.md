@@ -14,11 +14,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/DeepShah1406/DeepShah1406/blob/main/language_and_tools_images/GitHub_Animation.gif" width="360px"/>
 
-### 🧐 More About Me:
+### 😁 More About Me:
 - 👋🏻 &nbsp; Hi, I'm Deep Shah.
 - 🎓 &nbsp; I'm currently pursuing a Master's degree in Information Technology at Charotar University of Science and Technology, Faculty of Computer Science and Applications.
 - 🎓 &nbsp; I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University
-- 🎓 &nbsp; I completed my 12th from St. Anne's High School, from Gujarat Secondary and Higher Secondary Education Board
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/programming/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 - 💻 &nbsp; I love coding and learning new things for and about it
 - 📚 &nbsp; “I’m currently learning how to make my GitHub profile more reactive and attractive. I’m also learning Flutter and developing dynamic Android applications
 - 📫 &nbsp; You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
