@@ -16,13 +16,13 @@
 
 ### 😁 More About Me:
 - 👋🏻 &nbsp; Hi, I'm Deep Shah.
-- 🎓 &nbsp; I'm currently pursuing a Master's degree in Information Technology at Charotar University of Science and Technology, Faculty of Computer Science and Applications.
-- 🎓 &nbsp; I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University
+- 🎓 &nbsp; I’m currently pursuing a Master’s in Information Technology at Charotar University of Science and Technology.
+- 🎓 &nbsp; I completed my Graduation in Bachelor of Science in Chemistry from Sardar Patel University.
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/programming/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 💻 &nbsp; I love coding and learning new things for and about it
-- 📚 &nbsp; “I’m currently learning how to make my GitHub profile more reactive and attractive. I’m also learning Flutter and developing dynamic Android applications
+- 💬 &nbsp; Ask me about anything Tech related, I am happy to discuss and help.
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/deepshah1406/).
+- 💻 &nbsp; I love coding and learning new things for and about it.
+- 📚 &nbsp; Currently, I’m enhancing my GitHub profile and developing dynamic Android apps with Flutter.
 - 📫 &nbsp; You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
 
 <br>
