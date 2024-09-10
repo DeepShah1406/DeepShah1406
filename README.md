@@ -18,11 +18,12 @@
 - 👋🏻 &nbsp; Hi, I'm Deep Shah.
 - 🎓 &nbsp; I’m currently pursuing a Master’s in Information Technology.
 - 🎓 &nbsp; I completed my Graduation with a Bachelor of Science in Chemistry.
+- 📚 &nbsp; I have started reading Artificial Intelligence with Python by Prateek Joshi and Digital Image Processing by Rafael G. Gonzalez and Richard E. Woods.
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/programming/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything Tech related, I am happy to discuss and help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/deepshah1406/).
 - 💻 &nbsp; I love coding and learning new things for and about it.
-- 📚 &nbsp; Currently, I’m enhancing my GitHub profile and developing dynamic Android apps with Flutter.
+- 👨🏻‍💻 &nbsp; Currently, I’m enhancing my GitHub profile and developing dynamic Android apps with Flutter.
 - 📫 &nbsp; You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
 
 <br>
