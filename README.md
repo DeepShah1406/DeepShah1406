@@ -5,9 +5,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/deepshah1406/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/DeepShah1406/" title="GitHub Profile"><img width="22" src="images/30_github.c0a4dde53e.png"> GitHub</a></code>
-  <code><a href="https://www.instagram.com/deep_shah_1406/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/deepshah1406/" title="LinkedIn Profile"><img width="22" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/DeepShah1406/" title="GitHub Profile"><img width="22" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/30_github.c0a4dde53e.png"> GitHub</a></code>
+  <code><a href="https://www.instagram.com/deep_shah_1406/" title="Instagram Profile"><img width="22" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <br>
@@ -32,22 +32,22 @@
 <h2 align="center">🔥 Language's & Framework's & Tool's & Abilities' 🔥</h2>
 <br>
 <p align="center">
-  <code><a href="https://www.python.org/"><img title="Python" height="25" src="images/python-original.svg"></a></code>
-  <code><a href="https://flutter.dev/"><img title="Flutter" height="25" src="images/flutter.svg"></a></code>
-  <code><a href="https://www.php.net/"><img title="PHP" height="25" src="images/php.svg"></a></code>
-  <code><a href="https://www.java.com/"><img title="Java" height="25" src="images/java-original.svg"></a></code>
-  <code><a href="https://dart.dev/"><img title="Dart" height="25" src="images/dart.svg"></a></code>
-  <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img title="C#" height="25" src="images/cSharp.svg"></a></code>
+  <code><a href="https://www.python.org/"><img title="Python" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/python-original.svg"></a></code>
+  <code><a href="https://flutter.dev/"><img title="Flutter" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/flutter.svg"></a></code>
+  <code><a href="https://www.php.net/"><img title="PHP" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/php.svg"></a></code>
+  <code><a href="https://www.java.com/"><img title="Java" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/java-original.svg"></a></code>
+  <code><a href="https://dart.dev/"><img title="Dart" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/dart.svg"></a></code>
+  <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img title="C#" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/cSharp.svg"></a></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><a href="https://html.spec.whatwg.org/multipage/"><img title="HTML5" height="25" src="images/html5.svg"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/"><img title="CSS" height="25" src="images/css.svg"></a></code>
-  <code><a href="https://git-scm.com/"><img title="Git" height="25" src="images/git-original.svg"></a></code>
-  <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps"><img title="ASP.NET" height="25" src="images/asp.net.png"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img title="Visual Studio Code" height="25" src="images/vscode.png"></a></code>
-  <code><a href="https://visualstudio.microsoft.com/"><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></a></code>
-  <code><a href="https://developer.android.com/"><img title="Android" height="25" src="images/android.svg"></a></code>
-  <code><a href="https://github.com/"><img title="GitHub" height="25" src="images/github.svg"></a></code>
-  <code><a href="https://www.mysql.com/"><img title="MySQL" height="25" src="images/mysql.svg"></a></code>
+  <code><a href="https://html.spec.whatwg.org/multipage/"><img title="HTML5" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/html5.svg"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/"><img title="CSS" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/css.svg"></a></code>
+  <code><a href="https://git-scm.com/"><img title="Git" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/git-original.svg"></a></code>
+  <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps"><img title="ASP.NET" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/asp.net.png"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img title="Visual Studio Code" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/vscode.png"></a></code>
+  <code><a href="https://visualstudio.microsoft.com/"><img title="Microsoft Visual Studio" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/visualstudio.png"></a></code>
+  <code><a href="https://developer.android.com/"><img title="Android" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/android.svg"></a></code>
+  <code><a href="https://github.com/"><img title="GitHub" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/github.svg"></a></code>
+  <code><a href="https://www.mysql.com/"><img title="MySQL" height="25" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/mysql.svg"></a></code>
 </p>
 <hr>
 
