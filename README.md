@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/deepshah1406/" title="LinkedIn Profile"><img width="22" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/deepshah1406/" title="LinkedIn Profile"><img width="22" src="https://github.com/DeepShah1406/DeepShah1406/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://github.com/DeepShah1406/" title="GitHub Profile"><img width="22" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/30_github.c0a4dde53e.png"> GitHub</a></code>
   <code><a href="https://www.instagram.com/deep_shah_1406/" title="Instagram Profile"><img width="22" src="https://github.com/DeepShah1406/DeepShah1406/tree/main/images/instagram.svg"> Instagram</a></code>
 </h5>
