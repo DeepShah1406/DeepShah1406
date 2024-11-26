@@ -56,7 +56,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/DeepShah1406/github-readme-streak-stats-001" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-streak-stats-001-deep-shah-1406.vercel.app/?user=DeepShah1406&theme=react&border=61dafb&hide_border=true" alt="DeepShah1406" />
+      <img align="center" width=390 src="http://github-readme-streak-stats.herokuapp.com/?user=DeepShah1406&theme=react&border=61dafb&hide_border=true" alt="DeepShah1406" />
     </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DeepShah1406&theme=react&show_icons=true&layout=compact&rank_icon=github" />
