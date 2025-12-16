@@ -48,7 +48,7 @@
   <code><a href="https://developer.android.com/"><img title="Android" height="25" src="https://github.com/DeepShah1406/DeepShah1406/blob/main/images/android.svg"></a></code>
   <code><a href="https://github.com/"><img title="GitHub" height="25" src="https://github.com/DeepShah1406/DeepShah1406/blob/main/images/github.svg"></a></code>
   <code><a href="https://www.mysql.com/"><img title="MySQL" height="25" src="https://github.com/DeepShah1406/DeepShah1406/blob/main/images/mysql.svg"></a></code>
-  <code><a href="https://n8n.io"><img title="n8n" height="25" src="https://github.com/DeepShah1406/DeepShah1406/blob/main/language_and_tools_images/square/n8n/n8n.png"></a></code>
+  <code><a href="https://n8n.io"><img title="n8n" height="25" src="https://github.com/DeepShah1406/DeepShah1406/blob/main/language_and_tools_images/square/n8n/n8n_2.png"></a></code>
 </p>
 <hr>
 
