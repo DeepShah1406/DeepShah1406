@@ -58,7 +58,7 @@
     <a href="https://github.com/DeepShah1406/github-readme-streak-stats-001" title="Go to Source">
       <img align="center" width=390 src="https://streak-stats.demolab.com/?user=DeepShah1406&theme=react&border=61dafb&hide_border=true" alt="DeepShah1406" />
     </a>
-  <a href="https://github.com/DeepShah1406/github-readme-streak-stats-001" title="Go to Source">
+  <!-- <a href="https://github.com/DeepShah1406/github-readme-streak-stats-001" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DeepShah1406&theme=react&show_icons=true&layout=compact&rank_icon=github" />
     </a>
   </div>
@@ -67,7 +67,8 @@
     <a href="https://github.com/DeepShah1406/github-readme-streak-stats-001" title="Go to Source">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepShah1406&layout=compact&theme=react&show_icons=true" />
     </a>
-  </div>
+  </div> -->
+<br>
 <br>
   <a href="https://github.com/DeepShah1406/github-readme-streak-stats-001" title="Go to Source">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
