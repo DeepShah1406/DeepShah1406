@@ -71,7 +71,7 @@
 <br>
   <a href="https://github.com/DeepShah1406/github-readme-streak-stats-001" title="Go to Source">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepShah1406&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  </a>a>
+  </a>
 </p>
 
 <hr>
