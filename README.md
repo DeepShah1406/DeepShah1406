@@ -16,13 +16,13 @@
 
 ### 😁 More About Me:
 - 👋🏻 &nbsp; Hi, I'm Deep Shah.
-- 🎓 &nbsp; I’m currently pursuing a Master’s in Information Technology.
-- 🎓 &nbsp; I completed my Graduation with a Bachelor of Science in Chemistry.
+- 🎓 &nbsp; Holding a Master of Science (M.Sc.) degree in Information Technology and a Bachelor of Science (B.Sc.) degree in Chemistry.
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/programming/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything Tech related, I am happy to discuss and help.
 - 📫 &nbsp; Feel free to connect and ping me on [LinkedIn](https://www.linkedin.com/in/deepshah1406/).
 - 💻 &nbsp; I love coding and learning new things for and about it.
 - 👨🏻‍💻 &nbsp; I am currently an AI/ML GenAI engineer, building GenAI applications and RAG chatbots, and I am also creating n8n automation workflows too.
+- 📚 &nbsp; I am reading CHANAKYA'S CHANT by Ashwin Sanghi.
 - 📫 &nbsp; You can reach me via: <a href="mailto: shahdeep1406@gmail.com">shahdeep1406@gmail.com</a>
 <!-- - 📚 &nbsp; I have started reading Artificial Intelligence with Python by Prateek Joshi and Digital Image Processing by Rafael G. Gonzalez and Richard E. Woods. -->
 <br>
